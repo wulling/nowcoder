@@ -43,8 +43,10 @@
     运行打包命令  mvn package
     运行项目    java -jar xxx.jar
     访问项目   http://localhost:8080
-  
-# DEMO
+
+#效果展示
+
+https://github.com/wulling/nowcoder/assets/144582364/8096141e-1d25-497c-b208-84572fbcf122
 
 
 
