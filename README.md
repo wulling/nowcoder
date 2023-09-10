@@ -44,6 +44,9 @@
     运行项目    java -jar xxx.jar
     访问项目   http://localhost:8080
   
-#效果展示
-  https://github.com/wulling/nowcoder/assets/144582364/f5d29c46-f44a-4a28-aa78-248de5a29192
+# DEMO
+
+
+
+
     
